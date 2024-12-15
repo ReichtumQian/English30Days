@@ -22,7 +22,9 @@ jobs:
 
       - run: mdbook build
 
-      - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@v4
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        if: ${{ github.ref == 'refs/heads/main' }}
         with:
-          folder: www
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./book
