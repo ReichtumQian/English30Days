@@ -1,0 +1,16 @@
+[book]
+authors = ["reichtum"]
+language = "en"
+multilingual = false
+src = "src"
+title = "English30Days"
+
+[preprocessor.wikilinks]
+[preprocessor.toc]
+command = "mdbook-toc"
+renderer = ["html"]
+
+[output.html]
+additional-css = ["custom.css"]
+mathjax-support = true
+
