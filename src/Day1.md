@@ -49,7 +49,7 @@ Even small, **regular contributions** can accumulate into a significant amount o
 
 - Regular contribution 这里表示定期存款，contribution 这里表示的是投入。
 
-## Day1 Retell: 老托福 PartC-1: Community Service
+## Day1 Retell: 老托福 PartC-1 Community Service
 
 主题：社会
 
@@ -90,4 +90,27 @@ showing that you ~~have~~(have had) experience with child and (that you care abo
 
 If you would like to sign up or have any questions,
 please stop by Prof. Dodge's office.
+
+## Day1 Retell: SIMON 小作文 4
+
+The bar chart compares the time (that) ~~10 to 15 year old~~(10 to 15-year-old) teenagers in the UK ~~spending~~(spend) on
+chatting on the internet and playing on ~~games console~~(game consoles).
+
+- 年龄区间：`10 to 15-year-old` 做形容词，`10 to 15-year-olds` 做名词。
+
+Overall, playing computer games is **marginally** more popular than chatting on the internet.
+However, ~~the trends are completely different~~(completely different trends can be seen) ~~when~~(if) we ~~take a~~ look at the ~~gender~~(specific figures for boys and girls).
+
+It is clear that ~~10 to 15-years-old boys~~(boys aged between 10 and 15) 
+favor playing on games console
+~~than~~(over) chatting on the internet.
+While ~~there are~~ roughly 85% of boys ~~playing~~(play) computer games every day,
+~~there are~~ only 55% ~~of them~~ ~~chatting~~(chat) on the internet.
+(Furthermore,) the majority of boys play computer games for more than an hour each day,
+and 10% ~~of them~~ ~~play for~~(do this activity) more than 4 hours.
+
+- Favor A than B 是错误的！正确搭配是用 Over。
+- 表示百分比没必要用 There are 。
+- of them 可以省略，原因在于前面已经提到了 of boys。
+
 
