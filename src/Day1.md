@@ -2,7 +2,8 @@
 # Day1: 2024.12.16
 
 - [x] Recite: Success in Life
-- [ ] Recite: 杨帅 退休养老
+- [x] Recite: 杨帅 退休养老
+- 老托福 PartC-1: Community Service
 
 
 ## Day1 Recite: Success in Life
@@ -47,4 +48,46 @@ The earlier they begin, the more time their money has to grow **through** **comp
 Even small, **regular contributions** can accumulate into a significant amount over time.
 
 - Regular contribution 这里表示定期存款，contribution 这里表示的是投入。
+
+## Day1 Retell: 老托福 PartC-1: Community Service
+
+主题：社会
+
+Community service is an important component of ~~your study~~(education here) at our school.
+
+We encourage ~~all of you~~(all students) to volunteer at least one community activity before ~~you~~(they) graduate.
+
+You **education majors** ~~may~~(might) be interested in ~~this program~~(it) 
+because ~~it's a good chance~~(it offers the opportunity to do some teaching --- that is) 
+~~to tutor~~(tutoring) in math and English.
+
+- Major 这里表示主修为 Education 的同学
+- Tutor sb in sth 表示为 sb 辅导 sth
+
+You'd have to volunteer ~~for~~ two hours each/a week for a semester.
+
+You can choose to tutor English, math, or both.
+
+Half-hour lessons are fine, so you ~~can take~~(could do) a half hour ~~lesson~~(of each subject) ~~each day for~~ two days a week.
+
+Professor Dodge will ~~be the~~(act as a) mentor ~~for~~(to) the tutors ---
+he ~~is~~(will be) available to help with lesson plans or (to) offer activity suggestions.
+
+Prof. Dodge has office ~~time~~(hours) every Tuesday and Thursday afternoon.
+
+- Office hours 特指开放给学生咨询的时间
+
+You can sign up (for the program) ~~to~~(with) him, and begin (the) tutoring ~~in the~~ next week.
+
+- 这里 with 表示在 Prof. Dodge 的协助下完成
+- 下周 Next week 不需要介词
+
+I'm sure you'll enjoy this community service, and ~~have~~(gain) valuable
+experience at the same time.
+
+~~It's also good for the~~(It looks good on your) resume ---
+showing that you ~~have~~(have had) experience with child and (that you care about) community service.
+
+If you would like to sign up or have any questions,
+please stop by Prof. Dodge's office.
 
