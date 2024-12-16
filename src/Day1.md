@@ -2,9 +2,12 @@
 # Day1: 2024.12.16
 
 - [x] Recite: Success in Life
+- [ ] Recite: 杨帅 退休养老
 
 
 ## Day1 Recite: Success in Life
+
+主题：个人
 
 Success means different things for different people.
 Some may **equate** it with **fame**, some with wealth and still some
@@ -31,4 +34,17 @@ insurmountable. With this will and determination, success is sure to wait
 for you at the end of the tunnel!
 
 
-## Day1 Recite: 
+## Day1 Recite: 杨帅 2024.12.16 退休养老
+
+主题：个人
+
+It's incredibly important for people to start **saving** for **retirement** early.
+
+The earlier they begin, the more time their money has to grow **through** **compound interest**.
+
+- Compound interest：复利，即利息也有利息
+
+Even small, **regular contributions** can accumulate into a significant amount over time.
+
+- Regular contribution 这里表示定期存款，contribution 这里表示的是投入。
+
