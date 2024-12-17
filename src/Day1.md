@@ -6,7 +6,7 @@
 - 老托福 PartC-1: Community Service
 
 
-## Day1 Recite: Success in Life
+## Recite: Success in Life
 
 主题：个人
 
@@ -35,7 +35,7 @@ insurmountable. With this will and determination, success is sure to wait
 for you at the end of the tunnel!
 
 
-## Day1 Recite: 杨帅 2024.12.16 退休养老
+## Recite: 杨帅 2024.12.16 退休养老
 
 主题：个人
 
@@ -49,7 +49,7 @@ Even small, **regular contributions** can accumulate into a significant amount o
 
 - Regular contribution 这里表示定期存款，contribution 这里表示的是投入。
 
-## Day1 Retell: 老托福 PartC-1 Community Service
+## Retell: 老托福 PartC-1 Community Service
 
 主题：社会
 
@@ -91,7 +91,7 @@ showing that you ~~have~~(have had) experience with child and (that you care abo
 If you would like to sign up or have any questions,
 please stop by Prof. Dodge's office.
 
-## Day1 Retell: SIMON 小作文 4
+## Retell: SIMON 小作文 4
 
 The bar chart compares the time (that) ~~10 to 15 year old~~(10 to 15-year-old) teenagers in the UK ~~spending~~(spend) on
 chatting on the internet and playing on ~~games console~~(game consoles).
