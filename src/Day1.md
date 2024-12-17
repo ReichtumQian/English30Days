@@ -91,7 +91,7 @@ showing that you ~~have~~(have had) experience with child and (that you care abo
 If you would like to sign up or have any questions,
 please stop by Prof. Dodge's office.
 
-## Retell: SIMON 小作文 4
+## Retell: SIMON Part1-4
 
 The bar chart compares the time (that) ~~10 to 15 year old~~(10 to 15-year-old) teenagers in the UK ~~spending~~(spend) on
 chatting on the internet and playing on ~~games console~~(game consoles).

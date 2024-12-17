@@ -66,6 +66,11 @@ So yeah, these are the things I do to drive away boredom.
 
 ## Recite: SIMON Part1-5
 
+The chart below shows the total number of minutes (in billions) of
+telephone calls in the UK, divided into three categories, from 1995-2002.
+
+![alt text](img/2024.12.17-1.png)
+
 The bar chart compares the amount of time spent by people in the UK on
 three different types of phone call between 1995 and 2002.
 
@@ -86,3 +91,49 @@ category fell, but the rise in the other two types of phone call continued.
 In 2002, the number of minutes of national / international landline calls
 passed 60 billion, while the figure for mobiles rose to around 45 billion
 minutes.
+
+### Recite: SIMON Part2-2
+
+Question: Several languages are in danger of extinction 
+because they are spoken by very small numbers of people. 
+Some people say that governments should 
+spend public money on saving these languages, 
+while others believe that would be a waste of money.
+Discuss both these views and give your opinion.
+
+It is true that some minority languages may disappear in the near future. 
+Although it can be argued that governments could save money 
+by allowing this to happen, 
+I believe that these languages should be protected and preserved.
+
+There are several reasons why saving minority languages 
+could be seen as a waste of money. 
+Firstly, if a language is only spoken by a small number of people, 
+expensive education programs will be needed to make sure that more people learn it,
+and the state will have to pay for facilities, teachers and marketing. 
+This money might be better spent on other public services. 
+Secondly, it would be much cheaper and more efficient 
+for countries to have just one language. 
+Governments could cut all kinds of costs 
+related to communicating with each minority group. 
+
+Despite the above arguments, 
+I believe that governments should try to 
+preserve languages that are less widely spoken. 
+A language is much more than simply a means of communication; 
+it has a vital connection with the cultural identity of the people who speak it. 
+If a language disappears, 
+a whole way of life will disappear with it, 
+and we will lose the rich cultural diversity 
+that makes societies more interesting. 
+By spending money to protect minority languages, 
+governments can also preserve traditions, customs and behaviors 
+that are part of a country’s history.
+
+In conclusion, it may save money in the short term 
+if we allow minority languages to disappear, 
+but in the long term this would have an 
+extremely negative impact on our cultural heritage.
+
+
+
