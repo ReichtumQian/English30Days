@@ -86,3 +86,90 @@ It's really awesome.
 
 - Spectacular 壮观的（Very impressive）
 - Get the best of 表示享受到好处
+
+## Recite: SIMON Part1-6
+
+The bar chart below shows the proportions of English 
+men and women of different ages who were living alone in 2011. 
+The pie chart compares the
+numbers of bedrooms in these one-person households.
+
+![alt text](img/2024.12.19-1.png)
+
+![alt text](img/2024.12.19-2.png)
+
+The two charts give information about single-occupant households in
+England in the year 2011. The bar chart compares figures for occupants'
+age and gender, and the pie chart shows data about the number of bedrooms
+in these homes.
+
+Overall, females made up a higher proportion of people living alone than
+males, and this difference is particularly noticeable in the older age
+categories. We can also see that the most common number of bedrooms in
+a single-occupant home was two.
+
+- Age category 年龄段
+
+A significant majority of the people aged 65 or over who were living alone
+in England in 2011 were female. Women made up around 72% of single
+occupants aged 75 to 84, and 76% of those aged 85 or over. By contrast,
+among younger adults the figures for males were higher. For example, in
+the 35-49 age category, men accounted for nearly 65% of people living
+alone.
+
+- Significant majority of 绝大多数
+- Account for 占比
+
+In the same year, 35.4% of one-person households in England had two
+bedrooms, while one-bedroom and three-bedroom homes accounted for 28% and
+29.8% of the total. Under 7% of single-occupant homes had four or more
+bedrooms.
+
+## Recite: SIMON Part2-3
+
+Question: Some people believe that studying at university or college 
+is the best route to a successful career, 
+while others believe that it is better to 
+get a job straight after school.
+Discuss both views and give your opinion.
+
+When they finish school, 
+teenagers face the dilemma of whether to 
+get a job or continue their education. 
+While there are some benefits to 
+getting a job straight after school, 
+I would argue that it is better to 
+go to college or university.
+
+The option to start work straight after
+school is attractive for several reasons. 
+Many young people want to start earning money as soon as possible. 
+In this way, they can become independent, 
+and they will be able to afford their own house or start a family. 
+In terms of their career, 
+young people who decide to find work, 
+rather than continue their studies, 
+may progress more quickly. 
+They will have the chance to gain real experience 
+and learn practical skills related to their chosen profession.
+This may lead to promotions and a successful career.
+
+On the other hand, 
+I believe that it is more beneficial for students 
+to continue their studies. 
+Firstly, academic qualifications are required in many professions. 
+For example, it is impossible to become a doctor, 
+teacher or lawyer without having the relevant degree. 
+As a result, 
+university graduates have access to more and better job opportunities,
+and they tend to earn higher salaries than those with fewer qualifications.
+Secondly, the job market is becoming increasingly competitive, 
+and sometimes there are hundreds of applicants for one position in a company. 
+Young people who do not have qualifications 
+from a university or college will not be able to compete.
+
+For the reasons mentioned above, 
+it seems to me that students are more likely to 
+be successful in their careers 
+if they continue their studies beyond school level.
+
