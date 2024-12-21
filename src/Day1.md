@@ -113,16 +113,4 @@ and 10% ~~of them~~ ~~play for~~(do this activity) more than 4 hours.
 - 表示百分比没必要用 There are 。
 - of them 可以省略，原因在于前面已经提到了 of boys。
 
-## 核心句子
-
-- Some may equate it with fame, some with wealth and still some with accomplishments.
-- In the process of struggling for it, you cry, sweat, complain or even curse, 
-but the joy of harvesting makes you forget 
-all the pains and troubles you have gone through.
-- So an old proverb says that the sweetest fruit is one that has undergone the bitterest ordeal.
-- First, your goal must be practical and practicable.
-- You can take some steps to realize it.
-- Since the process is quite tough, you need to be diligent, patient and persevering.
-- Even if you meet with some difficulties or frustrations, just take them in your stride.
-- You can always tell yourself that there is nothing insurmountable.
 

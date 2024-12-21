@@ -98,9 +98,14 @@ Despite being surpassed temporarily by Philippines around the year 1990, Malaysi
 
 ### Refined
 
-The line graph illustrates the proportion of the urban population in four Asian countries—Malaysia, the Philippines, Thailand, and Indonesia—from 1970 to 2020, along with projections for the subsequent two decades.
+The line graph illustrates the proportion of the urban population 
+in four Asian countries—Malaysia, the Philippines, Thailand, and Indonesia—
+from 1970 to 2020, along with projections for the subsequent two decades.
 
-Overall, Malaysia consistently maintained the highest percentage of its population residing in urban areas throughout the period and is forecasted to continue this trend. Conversely, Indonesia started with the lowest urban population proportion but eventually surpassed both Thailand and the Philippines.
+- Projection：预测
+
+Overall, Malaysia consistently maintained the highest percentage of its population residing in urban areas throughout the period and is forecasted to continue this trend. 
+Conversely, Indonesia started with the lowest urban population proportion but eventually surpassed both Thailand and the Philippines.
 
 In 1970, Malaysia and the Philippines had nearly identical urban population percentages, both around 31%. In contrast, Thailand and Indonesia had significantly lower proportions, at approximately 18% and 14%, respectively. Over the ensuing decades, Malaysia and Indonesia experienced substantial growth in their urban populations. By 2020, Malaysia's urban population had surged to around 76%, while Indonesia's had risen sharply, overtaking Thailand and the Philippines to reach approximately 56%.
 Despite a brief period around 1990 when the Philippines temporarily surpassed Malaysia, the latter quickly regained its lead and is expected to see continued rapid urbanization, reaching about 90% by 2040. Indonesia, having overtaken the Philippines in 2010, is projected to maintain its second-place position, with its urban population proportion expected to climb to around 70% by 2040.
