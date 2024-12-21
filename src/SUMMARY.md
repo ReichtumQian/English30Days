@@ -6,7 +6,8 @@
 - [Listening](./Listening.md)
 - [Reading](./Reading.md)
 - [Speaking](./Speaking.md)
-- [Writing](./Writing.md)
+- [Writing Part1](./Writing1.md)
+- [Writing Part2](./Writing2.md)
 
 # Daily Logs
 

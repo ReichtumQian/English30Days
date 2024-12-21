@@ -84,3 +84,27 @@ For the reasons mentioned above,
 it seems to me that students are more likely to 
 be successful in their careers 
 if they continue their studies beyond school level.
+
+## Writing: C18 Test1 Task1
+
+### Original
+
+The line graph shows data about the urban population proportion in four Asian countries during the time period between 1970 to 2020, and predicts their figures for the future 20 years.
+
+It is clear that Malaysia has owned the biggest percentage of population in cities almost all the time period shown, and is predicted to keep the first for the future 20 years. Indonesia had the lowest urban-population proportion at the beginning, but then bypassed Thailand.
+
+In the year of 1970, the percentage of urban population in Philippines and Malaysia is almost the same, around 31%, while this figures for Thailand and Indonesia are roughly 18% and 14% respectively. In terms of the overall trend, Malaysia and Indonesia saw dramatic increase in proportion of residents living in cities, while the rises in Philippines and Thailand were relatively slow.
+Despite being surpassed temporarily by Philippines around the year 1990, Malaysia kept owning the biggest proportion of urban population, and is predicted to continue rising rapidly between 2020 and 2040. This figure of Indonesia overtook Thailand in 2000, and then Philippines in 2010, becoming the second only below Malaysia.
+
+### Refined
+
+The line graph illustrates the proportion of the urban population in four Asian countries—Malaysia, the Philippines, Thailand, and Indonesia—from 1970 to 2020, along with projections for the subsequent two decades.
+
+Overall, Malaysia consistently maintained the highest percentage of its population residing in urban areas throughout the period and is forecasted to continue this trend. Conversely, Indonesia started with the lowest urban population proportion but eventually surpassed both Thailand and the Philippines.
+
+In 1970, Malaysia and the Philippines had nearly identical urban population percentages, both around 31%. In contrast, Thailand and Indonesia had significantly lower proportions, at approximately 18% and 14%, respectively. Over the ensuing decades, Malaysia and Indonesia experienced substantial growth in their urban populations. By 2020, Malaysia's urban population had surged to around 76%, while Indonesia's had risen sharply, overtaking Thailand and the Philippines to reach approximately 56%.
+Despite a brief period around 1990 when the Philippines temporarily surpassed Malaysia, the latter quickly regained its lead and is expected to see continued rapid urbanization, reaching about 90% by 2040. Indonesia, having overtaken the Philippines in 2010, is projected to maintain its second-place position, with its urban population proportion expected to climb to around 70% by 2040.
+
+The Philippines and Thailand, on the other hand, exhibited more moderate increases. By 2020, the urban population in the Philippines had grown to approximately 48%, while Thailand's figure was close to 45%. These trends are expected to persist, with both countries showing steady but less dramatic growth compared to Malaysia and Indonesia.
+
+In summary, Malaysia is predicted to retain its leading position in terms of urban population proportion, while Indonesia is on a trajectory to further consolidate its second place, reflecting significant urbanization trends across these nations.
